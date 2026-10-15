@@ -8,7 +8,6 @@ dist/
 /supporter-service/.dev.vars
 /supporter-service/.wrangler/
 .DS_Store
-.env
 
 # Rust
 /app/src-tauri/target/
@@ -17,7 +16,6 @@ dist/
 **/*.rs.bk
 
 # Editors
-.vscode/
 .idea/
 
 # Misc
@@ -60,3 +58,4 @@ local.properties
 !Docs/LINUX_ARCH_IMPLEMENTATION_PLAN.md
 *_EXECUTION_REPORT.md
 *_DEV_NOTES.md
+config.bat
